@@ -1,5 +1,5 @@
 # Python-Combine-Excel
-Combine a folder of multiple xls files into one master file and append the filename that each line came from
+Combine a folder of multiple xls files into one master file and append the filename that each line came from using Pandas / Python
 
 Has a few options for how to read the excel files. Uncomment the one you wish to use and comment out the one currently in use to use a different method.
 
